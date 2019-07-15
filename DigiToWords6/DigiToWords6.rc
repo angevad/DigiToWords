@@ -1,0 +1,161 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Russian resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+#ifdef _WIN32
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_ONE                 "One "
+    IDS_TWO                 "Two "
+    IDS_THREE               "Three "
+    IDS_FOUR                "Four "
+    IDS_FIVE                "Five "
+    IDS_SIX                 "Six "
+    IDS_SEVEN               "Seven "
+    IDS_EIGHTH              "Eighth "
+    IDS_NINE                " Nine "
+    IDS_ZERO                "Zero "
+    IDS_ELEVEN              "Eleven "
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_TWELVE              "Twelve "
+    IDS_THIRTEEN            "Thirteen "
+    IDS_FOURTEEN            "Fourteen "
+    IDS_FIFTEEN             "Fifteen "
+    IDS_SIXTEEN             "Sixteen "
+    IDS_SEVENTEEN           "Seventeen "
+    IDS_EIGHTEEN            "Eighteen "
+    IDS_NINETEEN            "Nineteen "
+    IDS_ONE2                "Один "
+    IDS_TEN                 "Ten "
+    IDS_TWENTY              "Twenty "
+    IDS_THIRTY              "Thirty "
+    IDS_FORTY               "Forty "
+    IDS_FIFTY               "Fifty "
+    IDS_SIXTY               "Sixty "
+    IDS_SEVENTY             "Seventy "
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_EIGHTY              "Eighty "
+    IDS_NINETY              "Ninety "
+    IDS_HUNDRED             "hundred "
+    IDS_THOUSAND            "thousand "
+    IDS_TWO2                "Два "
+    IDS_THREE2              "Три "
+    IDS_FOUR2               "Четыре "
+    IDS_FIVE2               " Пять "
+    IDS_SIX2                "Шесть "
+    IDS_SEVEN2              "Семь "
+    IDS_EIGHTH2             "Восемь "
+    IDS_NINE2               "Девять "
+    IDS_ZERO2               "Ноль "
+    IDS_ELEVEN2             "Одинадцать "
+    IDS_TWELVE2             "Двенадцать "
+    IDS_THIRTEEN2           "Тринадцать "
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_FOURTEEN2           "Четырнадчать "
+    IDS_FIFTEEN2            "Пятнадцать "
+    IDS_SIXTEEN2            "Шестнадцать "
+    IDS_SEVENTEEN2          "Семнадцать "
+    IDS_EIGHTEEN2           "Восемнадцать "
+    IDS_NINETEEN2           "Деватнадцать "
+    IDS_TEN2                "Десять "
+    IDS_TWENTY2             "Двадцать "
+    IDS_THIRTY2             "Тридцать "
+    IDS_FORTY2              "Сорок "
+    IDS_FIFTY2              "Пятьдесят "
+    IDS_SIXTY2              "Шестьдясят "
+    IDS_SEVENTY2            "Семьдесят "
+    IDS_EIGHTY2             "Восемьдесят "
+    IDS_NINETY2             "Девяносто "
+    IDS_1HUNDRED            "Сто "
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_2HUNDRED            "Двести "
+    IDS_3HUNDRED            "Триста "
+    IDS_4HUNDRED            "Четыреста "
+    IDS_5HUNDRED            "Пятьсот "
+    IDS_6HUNDRED            "Шестьсот "
+    IDS_7HUNDRED            "Семьсот "
+    IDS_8HUNDRED            "Восемсот "
+    IDS_9HUNDRED            "Деватьсот "
+    IDS_THOUSAND2           "Тысяча "
+    IDS_THOUSAND3           "Тысячи "
+    IDS_THOUSAND4           "Тысячь "
+    IDS_ONE3                "Одна "
+    IDS_TWO3                "Две "
+END
+
+#endif    // Russian resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
